@@ -85,17 +85,17 @@ Frontend runs at: `http://localhost:3000`
 
 ### Todo List Page (`/`)
 
-- ✅ View all todos in a card layout
-- ➕ Add new todo (title, description, priority, due date, tags)
-- ✏️ Edit any todo inline via modal
-- 🗑 Delete todo with confirmation
-- ✓ Toggle completion status
-- 🔍 Search by title, description, or tags
-- 🔽 Filter by completion status (All / Pending / Completed)
-- 🎯 Filter by priority (High / Medium / Low)
-- 📅 Sort by newest, due date, priority, or title
-- 📊 Stats bar with total / done / pending counts
-- 🔔 Toast notifications for all actions
+- View all todos in a card layout
+- Add new todo (title, description, priority, due date, tags)
+- Edit any todo inline via modal
+- Delete todo with confirmation
+- Toggle completion status
+- Search by title, description, or tags
+- Filter by completion status (All / Pending / Completed)
+- Filter by priority (High / Medium / Low)
+- Sort by newest, due date, priority, or title
+- Stats bar with total / done / pending counts
+- Toast notifications for all actions
 
 ### Todo Details Page (`/todo?id=<uuid>`)
 

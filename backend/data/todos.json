@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "title": "Learn React",
+    "description": "Complete React basics including hooks, routing, and component patterns.",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2025-06-20",
+    "createdAt": "2025-06-01T10:00:00.000Z",
+    "updatedAt": "2026-06-28T17:14:56.823Z",
+    "tags": [
+      "learning",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Build Express API",
+    "description": "Set up a RESTful API with Node.js and Express including CRUD operations.",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2025-06-25",
+    "createdAt": "2025-06-02T09:00:00.000Z",
+    "updatedAt": "2026-06-28T17:57:42.113Z",
+    "tags": [
+      "learning",
+      "backend"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, and vegetables for the week.",
+    "completed": false,
+    "priority": "medium",
+    "dueDate": "2025-06-15",
+    "createdAt": "2025-06-03T08:00:00.000Z",
+    "updatedAt": "2026-06-28T17:23:59.307Z",
+    "tags": [
+      "personal"
+    ]
+  },
+  {
+    "id": "a88bcb3a-590e-40dd-842b-15c69da81225",
+    "title": "go shop",
+    "description": "buy cloths",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-06-29",
+    "createdAt": "2026-06-28T17:57:28.401Z",
+    "updatedAt": "2026-06-28T17:57:28.401Z",
+    "tags": []
+  }
+]
